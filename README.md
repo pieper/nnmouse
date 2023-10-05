@@ -22,6 +22,8 @@ mouse-train.sh : used for planning and training.  First run `bash mouse-train.sh
 
 mouse-review.py : creates a simple interface to load and review data from fold 0 in 3D Slicer.
 
+mouse-predict.sh : shows how to run the trained model on a new dataset.
+
 
 ## Preliminary results for one fold
 
