@@ -36,4 +36,4 @@ For the 3D view the ground truth is on the left and the model results are on the
 
 # More information
 
-Slides presenting some of this work and other models trained using the same approach are [available here](https://docs.google.com/presentation/d/1zlTCcGPwYRzuZnXhJ3RHJ7_AQM4Nr8aU8Me1A6TQJjM/edit#slide=id.p1).
+Slides presenting some of this work and other models trained using the same approach are [available here](https://docs.google.com/presentation/d/1zlTCcGPwYRzuZnXhJ3RHJ7_AQM4Nr8aU8Me1A6TQJjM/edit#slide=id.p1).  This material was prepared as part of the [SlicerMorph Train the Trainers 2023 event](https://discourse.slicer.org/t/slicermorph-train-the-trainers-event/30998).
