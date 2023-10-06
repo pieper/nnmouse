@@ -33,3 +33,7 @@ In 2D the ground truth is outline and the fill is the model.
 For the 3D view the ground truth is on the left and the model results are on the right.
 
 ![image](https://github.com/pieper/nnmouse/assets/126077/140415b3-7206-4a0f-83e2-1e14d9d8d929)
+
+# More information
+
+Slides presenting some of this work and other models trained using the same approach are [available here](https://docs.google.com/presentation/d/1zlTCcGPwYRzuZnXhJ3RHJ7_AQM4Nr8aU8Me1A6TQJjM/edit#slide=id.p1).
